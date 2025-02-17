@@ -3,3 +3,5 @@
 
 صفحه Create Analysis and Optimization of Quality of Service (QoS) in Multi…  توسط .... در حال تکمیل است. 
   
+
+صفحه پردازش و تفسیر داده های سنسور های خودروی های خودران با هوش مصنوعی توسط فروغ رزاقیان در حال تکمیل است. 
